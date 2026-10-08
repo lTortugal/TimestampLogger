@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue)](https://github.com/lTortugal/TimestampLogger)
 
-[🇷🇺 Читать на русском](#-русский) | [🇬🇧 Read in English](#-english)
+[🇷🇺 Читать на русском](#-русский) | [US Read in English](#-english)
 
 ---
 
