@@ -56,7 +56,7 @@ pyinstaller --onefile --noconsole --icon icon.ico --add-data "icon.ico;." media_
 
 ---
 
-## 🇬🇧 English
+## US English
 
 **TimestampLogger** is a lightweight Windows utility that automatically logs media timestamps whenever you hit pause. Using Windows Native Media Controls (GSMTC), it tracks the current video or track and its playback position across web browsers and desktop media players, with no browser extensions required.
 
