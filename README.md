@@ -1,6 +1,8 @@
 
 # ⏱️ TimestampLogger
 
+![Uploading Logo.jpg…]()
+
 > **Автоматическая фиксация таймкодов при паузе на YouTube и в медиаплеерах Windows.**
 > *Auto-pause timestamp logger for YouTube and Windows desktop media players.*
 
