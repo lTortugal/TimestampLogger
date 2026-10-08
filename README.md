@@ -1,5 +1,4 @@
 
-[README .md](https://github.com/user-attachments/files/33184870/README.md)
 # ⏱️ TimestampLogger
 
 > **Автоматическая фиксация таймкодов при паузе на YouTube и в медиаплеерах Windows.**
