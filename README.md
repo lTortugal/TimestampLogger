@@ -1,4 +1,5 @@
-[README.md](https://github.com/user-attachments/files/33184671/README.md)
+
+[README (1).md](https://github.com/user-attachments/files/33184870/README.1.md)
 # ⏱️ TimestampLogger
 
 > **Автоматическая фиксация таймкодов при паузе на YouTube и в медиаплеерах Windows.**
@@ -8,18 +9,18 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue)](https://github.com/lTortugal/TimestampLogger)
 
-[🇷🇺 Читать на русском](#-русский) | [US Read in English](#-english)
+[Русский](#русский) | [English](#english)
 
 ---
 
-## 🇷🇺 Русский
+## Русский
 
 **TimestampLogger** — утилита для Windows, которая автоматически сохраняет точные таймкоды, когда вы ставите воспроизведение на паузу. Работает через системный медиа-сервис Windows (GSMTC), поэтому получает название ролика, автора и позицию воспроизведения без установки расширений в браузер.
 
 ### ✨ Возможности
 
 - 🎯 **Умный трекинг:** фиксирует событие ровно в момент паузы.
-- 🔗 **таймкоды** формирует таймкоды на момент видео (`&t=XXs`).
+- 🔗 **Ссылки с таймкодом:** формирует прямую ссылку на момент видео (`&t=XXs`).
 - 🖥️ **Любые плееры и браузеры:** Chrome, Firefox, Edge, Яндекс.Браузер, VLC, Spotify, PotPlayer и др.
 - ⚙️ **Фильтры источников:** только браузеры, только плееры или все медиа.
 - 🎛️ **GUI и трей:** отображение текущего трека/видео и сворачивание в системный трей Windows.
@@ -56,14 +57,14 @@ pyinstaller --onefile --noconsole --icon icon.ico --add-data "icon.ico;." media_
 
 ---
 
-## US English
+## English
 
 **TimestampLogger** is a lightweight Windows utility that automatically logs media timestamps whenever you hit pause. Using Windows Native Media Controls (GSMTC), it tracks the current video or track and its playback position across web browsers and desktop media players, with no browser extensions required.
 
 ### ✨ Features
 
 - 🎯 **Automatic Pause Detection:** captures the exact moment playback pauses.
-- 🔗 **timcodes** generates timestamps for the video moment (`&t=XXs`).
+- 🔗 **YouTube Deep Linking:** generates direct timestamped links (`&t=XXs`).
 - 🖥️ **Universal Compatibility:** works with Chrome, Edge, Firefox, Brave, VLC, Spotify, PotPlayer, etc.
 - ⚙️ **Media Filtering:** browser only, desktop player only, or all media.
 - 🎛️ **Tray & Status GUI:** live display of the current media and active filter; minimizes to the system tray.
