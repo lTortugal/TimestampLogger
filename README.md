@@ -97,3 +97,4 @@ pyinstaller --onefile --noconsole --icon icon.ico --add-data "icon.ico;." media_
 ### 📄 License
 
 This project is licensed under the MIT License.
+By Tortuga
