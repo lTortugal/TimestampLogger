@@ -1,7 +1,8 @@
 
 # ⏱️ TimestampLogger
 
-![Uploading Logo.jpg…]()
+<img width="2048" height="2048" alt="Logo" src="https://github.com/user-attachments/assets/0189db25-7272-4f45-9c59-e831d9cbd0ec" />
+
 
 > **Автоматическая фиксация таймкодов при паузе на YouTube и в медиаплеерах Windows.**
 > *Auto-pause timestamp logger for YouTube and Windows desktop media players.*
