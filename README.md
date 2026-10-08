@@ -20,7 +20,7 @@
 ### ✨ Возможности
 
 - 🎯 **Умный трекинг:** фиксирует событие ровно в момент паузы.
-- 🔗 **Ссылки с таймкодом:** формирует прямую ссылку на момент видео (`&t=XXs`).
+- 🔗 **таймкоды:** формирует таймкод момента видео (`&t=XXs`).
 - 🖥️ **Любые плееры и браузеры:** Chrome, Firefox, Edge, Яндекс.Браузер, VLC, Spotify, PotPlayer и др.
 - ⚙️ **Фильтры источников:** только браузеры, только плееры или все медиа.
 - 🎛️ **GUI и трей:** отображение текущего трека/видео и сворачивание в системный трей Windows.
@@ -64,7 +64,7 @@ pyinstaller --onefile --noconsole --icon icon.ico --add-data "icon.ico;." media_
 ### ✨ Features
 
 - 🎯 **Automatic Pause Detection:** captures the exact moment playback pauses.
-- 🔗 **YouTube Deep Linking:** generates direct timestamped links (`&t=XXs`).
+- 🔗 **timestamps:** generates the video timestamp (`&t=XXs`)
 - 🖥️ **Universal Compatibility:** works with Chrome, Edge, Firefox, Brave, VLC, Spotify, PotPlayer, etc.
 - ⚙️ **Media Filtering:** browser only, desktop player only, or all media.
 - 🎛️ **Tray & Status GUI:** live display of the current media and active filter; minimizes to the system tray.
